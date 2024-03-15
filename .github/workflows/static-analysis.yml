@@ -30,9 +30,9 @@ jobs:
     strategy:
       matrix:
         elixir:
-        - "1.11"
+        - "1.16"
         otp:
-        - "23.0"
+        - "25.3"
 
     steps:
     - name: Checkout
