@@ -30,7 +30,7 @@ jobs:
     strategy:
       matrix:
         elixir:
-        - "1.16"
+        - "1.14"
         otp:
         - "25.3"
 
